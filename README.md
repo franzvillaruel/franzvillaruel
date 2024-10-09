@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**franzvillaruel/franzvillaruel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Franz Eric Jr Villaruel**, a full-stack developer specializing in web applications using Nextjs, Laravel, and more!
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,bootstrap,tailwind,ts,react,nextjs,py,mysql,md,nodejs&theme=dark&perline=7)
+
+## Tools and Technologies
+![Tools and Technologies](https://skillicons.dev/icons?i=visualstudio,docker,git,linux,ubuntu,npm,postman,windows,vercel&theme=dark&perline=7)
+
+## Version Control
+![Skills](https://skillicons.dev/icons?i=github,gitlab,bitbucket&theme=dark)
+
+## Contact Me
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](www.linkedin.com/in/franz-eric-jr-villaruel)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](franzericjrv@gmail.com)
