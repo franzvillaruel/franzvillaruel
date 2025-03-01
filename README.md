@@ -4,7 +4,7 @@ I'm **Franz Eric Jr Villaruel**, a full-stack developer specializing in web appl
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,bootstrap,tailwind,ts,react,nextjs,py,mysql,md,nodejs&theme=dark&perline=7)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,php,laravel,bootstrap,tailwind,ts,react,vuejs,nextjs,py,mysql,md,nodejs&theme=dark&perline=7)](https://skillicons.dev)
 
 ## Tools and Technologies
 [![Tools and Technologies](https://skillicons.dev/icons?i=visualstudio,docker,git,linux,ubuntu,npm,postman,windows,vercel&theme=dark&perline=7)](https://skillicons.dev)
