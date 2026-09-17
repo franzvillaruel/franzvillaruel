@@ -13,5 +13,4 @@ I'm **Franz Eric Jr Villaruel**, a full-stack developer specializing in web appl
 [![Skills](https://skillicons.dev/icons?i=github,gitlab,bitbucket&theme=dark)](https://skillicons.dev)
 
 ## Contact Me
-- Linkedin: https://www.linkedin.com/in/franz-villaruel/
 - Gmail: franzericjrv@gmail.com
